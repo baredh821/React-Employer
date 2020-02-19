@@ -1,34 +1,34 @@
 [
 	{
 		"id": 1,
-        "first": "Martha",
-        "last": "Wright",
-        "position": "Director of Sales",
-        "email": "martha.wright@example.com",
+        "first": "Daniel",
+        "last": "Gill",
+        "position": "Director",
+        "email": "Danny.Gill@example.com",
         "cell": "(625)-245-9070"
 	},
 	{
 		"id": 2,
-        "first": "Sandra",
-        "last": "Butler",
-        "position": "Sales Associate",
-        "email": "sandra.butler@example.com",
+        "first": "Sharon",
+        "last": "Wagnor",
+        "position": "Product Owner",
+        "email": "Sharon.Wagnor@example.com",
         "cell": "(414)-577-0876"
 	},
     {
 		"id": 3,
-        "first": "Peggy",
-        "last": "Schmidt",
-        "position": "Sales Assistant",
-        "email": "peggy.schmidt@example.com",
+        "first": "Dori",
+        "last": "Davison",
+        "position": "RTE",
+        "email": "Dori.Davison@example.com",
         "cell": "(651)-765-7432"
 	},
 	{
 		"id": 4,
         "first": "John",
-        "last": "Watts",
-        "position": "Sales Manager",
-        "email": "john.watts@example.com",
+        "last": "Yang",
+        "position": "Manager",
+        "email": "john.yang@example.com",
         "cell": "(612)-291-7846"
 	},
     {
