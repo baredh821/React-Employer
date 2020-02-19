@@ -15,7 +15,7 @@ Employer Directory - The user directory allows you to search the entire employee
 
 # Screenshots
 
-<img src = "Screenshot1.JPG">
+<img src = "Screenshot1.PNG">
 
 
 # Repo Details 
